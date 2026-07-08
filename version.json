@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.1",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.3.0: tich hop Claude Desktop (MCP), ho tro Revit 2024/2025/2026, nhieu cai tien. Dong Revit truoc khi cai."
+  "notes": "Ban 1.4.1: Sheet Creator tu mo file Excel sau khi xuat; Align Viewports giu view chinh dung vi tri khi dong bo; Shift+click tick ca dai o nhieu cong cu. Dong Revit truoc khi cai."
 }
