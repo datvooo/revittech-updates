@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.4.1: Sheet Creator tu mo file Excel sau khi xuat; Align Viewports giu view chinh dung vi tri khi dong bo; Shift+click tick ca dai o nhieu cong cu. Dong Revit truoc khi cai."
+  "notes": "Ban 1.4.2: Sua loi xuat PDF khong tran kho giay/title block (Fit to Page + tu dong xoay huong giay). Them nut Feedback gui loi/gop y kem anh chup man hinh, chon cong cu lien quan. Dong Revit truoc khi cai."
 }
