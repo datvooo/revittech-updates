@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.4.2: Sua loi xuat PDF khong tran kho giay/title block (Fit to Page + tu dong xoay huong giay). Them nut Feedback gui loi/gop y kem anh chup man hinh, chon cong cu lien quan. Dong Revit truoc khi cai."
+  "notes": "Ban 1.4.3: Sua loi ten file khi xuat sheet ra file roi - File Name Template gio ra dung nhu Preview. Sua loi gop nhieu sheet thanh 1 PDF bi thieu trang. Sua loi gui Feedback kem anh chup man hinh tren Revit 2024. Them tool Duct from CAD (panel Mechanical): ve ong gio tu ban ve DWG/DXF. Export Sheets Pro them Auto huong giay + zoom theo phan tram. Dong Revit truoc khi cai."
 }
