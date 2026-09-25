@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.5.1: Ho tro Revit 2027 (bo cai chung cho Revit 2024-2027; tren 2027 add-in nam o C:\\Program Files\\Autodesk\\Revit\\Addins\\2027). Auto Tag nang cap: quet toan view 1 click, 1 tag cho moi doan ong cung cao do, tag khong de len nhau, tu can hang, tuy chon Leader nhu tag native. Them tool Pipe from CAD (panel Plumbing): ve ong thoat nuoc co do doc tu DWG/DXF. Duct from CAD: he thong theo tien to nhan, pick layer tren CAD, fitting Reducer/Tee, preview, sua loi ong noi xuyen khoang trong. Ra soat toan bo tool, sua 7 nhom loi. Dong Revit truoc khi cai."
+  "notes": "Ban 1.6.0: MCP (dieu khien Revit bang AI) len 82 tool. Moi: doc ban ve CAD (DWG/DXF: layer, text, block, dim) va kiem tra model Revit ve dung ban ve chua - bao cau kien lech bao nhieu mm, thieu, sai be day (doc text DWG can may co AutoCAD hoac dung file DXF). Tao kich thuoc (project + family, gan label vao parameter), dung family revolve/sweep/blend, tiet dien tron, gan vat lieu. bim_run_code chay tren Revit 2024-2027, co hop thoai xin phep nguoi dung. Quan ly document, job nen, tu chon cong khi mo nhieu Revit. Sua 15 form bi che/cat chu. Dong Revit truoc khi cai."
 }
