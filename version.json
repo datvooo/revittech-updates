@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.7.0",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.6.0: MCP (dieu khien Revit bang AI) len 82 tool. Moi: doc ban ve CAD (DWG/DXF: layer, text, block, dim) va kiem tra model Revit ve dung ban ve chua - bao cau kien lech bao nhieu mm, thieu, sai be day (doc text DWG can may co AutoCAD hoac dung file DXF). Tao kich thuoc (project + family, gan label vao parameter), dung family revolve/sweep/blend, tiet dien tron, gan vat lieu. bim_run_code chay tren Revit 2024-2027, co hop thoai xin phep nguoi dung. Quan ly document, job nen, tu chon cong khi mo nhieu Revit. Sua 15 form bi che/cat chu. Dong Revit truoc khi cai."
+  "notes": "Ban 1.7.0: 9 tool moi - Title Block Manager (xem/sua hang loat parameter khung ten qua Excel), Sheet Finder, Batch Sheet Data, Sheet Find & Replace, Align tag/text 4 huong, Auto Grid Dimension, Table Gen (Excel -> drafting view), MEP Check, Spell Check (hieu tieng Viet khong dau). Sua: Shift+click tick hang loat o moi danh sach (Sheet Creator, Export PDF+DWG, Rename...), highlight nhieu dong roi tick 1 o la tick ca nhom, menu chuot phai Tick/Bo tick/Dao; tieu de hop thoai khong con lap; MCP mo file co warning khong bi huy. Dong Revit truoc khi cai."
 }
