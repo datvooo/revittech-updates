@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.7.0: 9 tool moi - Title Block Manager (xem/sua hang loat parameter khung ten qua Excel), Sheet Finder, Batch Sheet Data, Sheet Find & Replace, Align tag/text 4 huong, Auto Grid Dimension, Table Gen (Excel -> drafting view), MEP Check, Spell Check (hieu tieng Viet khong dau). Sua: Shift+click tick hang loat o moi danh sach (Sheet Creator, Export PDF+DWG, Rename...), highlight nhieu dong roi tick 1 o la tick ca nhom, menu chuot phai Tick/Bo tick/Dao; tieu de hop thoai khong con lap; MCP mo file co warning khong bi huy. Dong Revit truoc khi cai."
+  "notes": "Ban 1.8.0: Batch Sheet Data + Sheet Find & Replace chung 1 cua so 2 tab; Sprinkler Connect PA1/PA2 chon lien tiep; Spell Check 'Sua tat ca N cho'; cac tool tao phan tu tu chon + zoom ket qua; Ctrl+Z 1 lan cho Copy Filters, Auto Tag Edge, Pipe/Duct from CAD; Esc dong cua so, cua so nho vi tri, nho thu muc xuat. Sua: nut phai re chuot qua Revit moi chay (19 tool), nut bi che o Auto Grid Dimension, Transfer Override lam mat template, Unused Templates bao nham, Sheet Creator dong mat du lieu, o tim kiem hong. Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
 }
