@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.9.0: Ribbon gon lai (icon nho + chu, moi panel 1 mau, doc ro o giao dien Sang/Toi); nut Panels an/hien tung panel; Sheet Data 1 nut 2 tab; MEP Check cho model lon (N/P di tung loi, Focus 3D, cay + ma tran, danh dau da xem, nut An con lai); Spell Check bot bao sai. Sua: Export Excel hong file tren Windows tieng Viet, o tick khong hien o cac danh sach chon. Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
+  "notes": "Ban 1.9.1: bo cai khong con vuong tren may khong co Claude Desktop (phan ket noi Claude/MCP thanh muc tick tuy chon, may khong co Claude thi tu bo qua). Gom moi tinh nang cua 1.9.0: Ribbon gon lai, nut Panels, MEP Check cho model lon, Spell Check bot bao sai, sua Export Excel tren Windows tieng Viet. Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
 }
