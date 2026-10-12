@@ -1,5 +1,5 @@
 {
-    "version":  "1.9.2",
-    "url":  "https://github.com/datvooo/revittech-updates/releases/latest",
-    "notes":  "Ban 1.9.2: tool moi Transfer Sheets (Views \u003e Transfer \u003e Transfer Sheets) - chep nguyen noi dung sheet kem view (drafting, legend, schedule, ghi chu) tu project nay sang project khac dang mo, dat dung vi tri, tu tao sheet neu chua co, tu sua dim bi Revit bo, khong bat hang loat view len. Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
+  "version": "1.9.2",
+  "url": "https://github.com/datvooo/revittech-updates/releases/latest",
+  "notes": "Ban 1.9.2: tool moi Transfer Sheets (Views / Transfer / Transfer Sheets) - chep nguyen noi dung sheet kem view (drafting, legend, schedule, ghi chu) tu project nay sang project khac dang mo, dat dung vi tri, tu tao sheet neu chua co, tu sua dim bi Revit bo, khong bat hang loat view len. Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
 }
