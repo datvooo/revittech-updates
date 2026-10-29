@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.11.0",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.10.0: Sheet Finder xem markup PDF ngay trong Revit - chon thu muc PDF cua khach, tu khop trang voi sheet, bam dong nao hien trang do (ke ca comment Bluebeam/Acrobat). Che do Chi markup lam mo ban ve, chi giu comment. Danh sach comment bam de zoom toi. Nut Dua len sheet dat markup dung vi tri tren sheet Revit (Xoa khoi sheet de don). Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
+  "notes": "Ban 1.11.0: MCP ve MEP du phu kien - ong cap/thoat tu dat cut, tee, con, chech Y, chu thap; ong gio tee dung truc; may cap va ong luon day moi (bim_draw_cable_trays / bim_draw_conduits), may cap tu ban ve CAD. Bao thieu phu kien truoc khi ve, bao dau ong ho sau khi ve. Thu vien script MCP kem san: nap bit, kiem tra va cham, xuat khoi luong Excel, boc bao on, tag size. Sua loi Auto Tag. Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
 }
