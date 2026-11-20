@@ -1,5 +1,5 @@
 {
-  "version": "1.11.1",
+  "version": "1.12.0",
   "url": "https://github.com/datvooo/revittech-updates/releases/latest",
-  "notes": "Ban 1.11.1: Export PDF them che do in qua may in (giong Ctrl+P) - sua loi chu ra nghieng / sai font trong PDF. Chon may in (vd Microsoft Print to PDF) o o Printer, tab Format; kho giay Auto theo title block. Vector/Raster va Raster Quality nay da co tac dung khi xuat PDF. Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
+  "notes": "Ban 1.12.0: nut Publish 3D (panel Views) - xuat khung nhin 3D len 3dviewer.revittech.vn va gui link cho khach xem tren trinh duyet / dien thoai, khong can Revit. Mau theo filter cua view, kem thuoc tinh cau kien, publish lai giu nguyen link. Can token (bam Ket noi... trong form). Co 2 file cai: ban thuong (can admin) va ban -User (khong can admin). Dong Revit truoc khi cai."
 }
